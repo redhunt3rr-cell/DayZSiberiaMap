@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<territory-type>
+    <territory color="872412928">
+		<zone name="AnimalWildHorse" smin="0" smax="0" dmin="1" dmax="1" x="6147.177246" z="7397.721191" r="112.5"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="1" dmax="1" x="11123.026367" z="7509.460449" r="50"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="1" dmax="1" x="10185.791992" z="4372.926270" r="50"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="1" dmax="1" x="8495.465820" z="3318.357666" r="50"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="1" dmax="1" x="4177.704102" z="3384.191162" r="50"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="1" dmax="1" x="4127.190918" z="4548.447266" r="50"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="1" dmax="1" x="5011.984375" z="9261.866211" r="50"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="1" dmax="1" x="9951.538086" z="9061.000000" r="50"/>
+        <zone name="AnimalWildHorse" smin="0" smax="0" dmin="1" dmax="1" x="3604.011230" z="6098.083496" r="50"/>
+	</territory>
+</territory-type>

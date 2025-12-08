@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4294945280">
+		<zone name="Zone_fox_01" smin="0" smax="0" dmin="1" dmax="1" x="7321.9292" z="2694.5100" r="90"/>
+		<zone name="Zone_fox_02" smin="0" smax="0" dmin="1" dmax="1" x="8376.3887" z="10757.9092" r="90"/>
+		<zone name="Zone_fox_03" smin="0" smax="0" dmin="1" dmax="1" x="9179.8037" z="3776.8066" r="90"/>
+		<zone name="Zone_fox_04" smin="0" smax="0" dmin="1" dmax="1" x="4772.0371" z="10141.2363" r="90"/>
+		<zone name="Zone_fox_05" smin="0" smax="0" dmin="1" dmax="1" x="10503.8086" z="4718.4927" r="90"/>
+		<zone name="Zone_fox_06" smin="0" smax="0" dmin="1" dmax="1" x="4957.5894" z="8292.1982" r="90"/>
+		<zone name="Zone_fox_07" smin="0" smax="0" dmin="1" dmax="1" x="11088.5586" z="6075.1392" r="90"/>
+		<zone name="Zone_fox_08" smin="0" smax="0" dmin="1" dmax="1" x="3712.3855" z="6455.0581" r="90"/>
+		<zone name="Zone_fox_09" smin="0" smax="0" dmin="1" dmax="1" x="11259.9111" z="7759.2065" r="90"/>
+		<zone name="Zone_fox_10" smin="0" smax="0" dmin="1" dmax="1" x="3944.9900" z="4984.6309" r="90"/>
+		<zone name="Zone_fox_11" smin="0" smax="0" dmin="1" dmax="1" x="6186.7856" z="10461.0449" r="90"/>
+		<zone name="Zone_fox_12" smin="0" smax="0" dmin="1" dmax="1" x="10758.6123" z="9173.3242" r="90"/>
+		<zone name="Zone_fox_13" smin="0" smax="0" dmin="1" dmax="1" x="4867.2310" z="3710.2766" r="90"/>
+		<zone name="Zone_fox_14" smin="0" smax="0" dmin="1" dmax="1" x="7233.7207" z="10559.6973" r="90"/>
+		<zone name="Zone_fox_15" smin="0" smax="0" dmin="1" dmax="1" x="9640.3447" z="10414.2549" r="90"/>
+    </territory>
+</territory-type>
