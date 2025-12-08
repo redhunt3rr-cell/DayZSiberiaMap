@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playerspawnpoints>
+    <fresh>
+        <spawn_params>
+            <min_dist_infected>5</min_dist_infected>
+            <max_dist_infected>5</max_dist_infected>
+            <min_dist_player>5</min_dist_player>
+            <max_dist_player>5</max_dist_player>
+            <min_dist_static>1</min_dist_static>
+            <max_dist_static>3</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>5</grid_density>
+            <grid_width>120</grid_width>
+            <grid_height>120</grid_height>
+            <min_dist_static>1</min_dist_static>
+            <max_dist_static>3</max_dist_static>
+            <min_steepness>-40</min_steepness>
+            <max_steepness>40</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <groups_as_regular>false</groups_as_regular>
+            <lifetime>300</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="Siberia">
+                <pos x="7981.96" z="10955.7"/>
+                <pos x="8110.46" z="10956.2"/>
+                <pos x="8265.63" z="10811.0"/>
+                <pos x="6473.94" z="10441.6"/>
+                <pos x="8186.30" z="10636.3"/>
+                <pos x="6196.70" z="10662.8"/>
+                <pos x="8112.26" z="10780.5"/>
+                <pos x="6209.77" z="10282.1"/>
+                <pos x="6165.82" z="10379.6"/>
+                <pos x="7975.66" z="10588.4"/>
+                <pos x="6070.82" z="10365.9"/>
+                <pos x="7651.92" z="10746.2"/>
+                <pos x="6101.75" z="10465.5"/>
+                <pos x="7879.47" z="10829.0"/>
+                <pos x="8334.05" z="10704.1"/>
+                <pos x="6715.09" z="10481.4"/>
+            </group>
+        </generator_posbubbles>
+    </fresh>
+
+    <hop>
+        <spawn_params>
+            <min_dist_infected>5</min_dist_infected>
+            <max_dist_infected>5</max_dist_infected>
+            <min_dist_player>5</min_dist_player>
+            <max_dist_player>5</max_dist_player>
+            <min_dist_static>1</min_dist_static>
+            <max_dist_static>3</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>5</grid_density>
+            <grid_width>130</grid_width>
+            <grid_height>130</grid_height>
+            <min_dist_static>1</min_dist_static>
+            <max_dist_static>3</max_dist_static>
+            <min_steepness>-40</min_steepness>
+            <max_steepness>40</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>false</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="Siberia">
+                <pos x="7981.96" z="10955.7"/>
+                <pos x="8110.46" z="10956.2"/>
+                <pos x="8265.63" z="10811.0"/>
+                <pos x="6473.94" z="10441.6"/>
+                <pos x="8186.30" z="10636.3"/>
+                <pos x="6196.70" z="10662.8"/>
+                <pos x="8112.26" z="10780.5"/>
+                <pos x="6209.77" z="10282.1"/>
+                <pos x="6165.82" z="10379.6"/>
+                <pos x="7975.66" z="10588.4"/>
+                <pos x="6070.82" z="10365.9"/>
+                <pos x="7651.92" z="10746.2"/>
+                <pos x="6101.75" z="10465.5"/>
+                <pos x="7879.47" z="10829.0"/>
+                <pos x="8334.05" z="10704.1"/>
+                <pos x="6715.09" z="10481.4"/>
+            </group>
+        </generator_posbubbles>
+    </hop>
+
+    <travel>
+        <spawn_params>
+            <min_dist_infected>5</min_dist_infected>
+            <max_dist_infected>5</max_dist_infected>
+            <min_dist_player>5</min_dist_player>
+            <max_dist_player>5</max_dist_player>
+            <min_dist_static>1</min_dist_static>
+            <max_dist_static>3</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>5</grid_density>
+            <grid_width>130</grid_width>
+            <grid_height>130</grid_height>
+            <min_dist_static>1</min_dist_static>
+            <max_dist_static>3</max_dist_static>
+            <min_steepness>-40</min_steepness>
+            <max_steepness>40</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>false</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+            <group name="Siberia">
+                <pos x="7981.96" z="10955.7"/>
+                <pos x="8110.46" z="10956.2"/>
+                <pos x="8265.63" z="10811.0"/>
+                <pos x="6473.94" z="10441.6"/>
+                <pos x="8186.30" z="10636.3"/>
+                <pos x="6196.70" z="10662.8"/>
+                <pos x="8112.26" z="10780.5"/>
+                <pos x="6209.77" z="10282.1"/>
+                <pos x="6165.82" z="10379.6"/>
+                <pos x="7975.66" z="10588.4"/>
+                <pos x="6070.82" z="10365.9"/>
+                <pos x="7651.92" z="10746.2"/>
+                <pos x="6101.75" z="10465.5"/>
+                <pos x="7879.47" z="10829.0"/>
+                <pos x="8334.05" z="10704.1"/>
+                <pos x="6715.09" z="10481.4"/>
+            </group>
+        </generator_posbubbles>
+    </travel>
+</playerspawnpoints>
