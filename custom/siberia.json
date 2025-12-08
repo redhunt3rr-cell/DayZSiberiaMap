@@ -1,0 +1,180 @@
+{
+  "Objects": [
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                13304.533203125,
+                17.998872756958009,
+                1341.953125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                13160.0498046875,
+                18.02450942993164,
+                1183.04638671875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                13149.607421875,
+                18.121614456176759,
+                627.7060546875
+            ],
+            "ypr": [
+                18.000001907348634,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                7456.20703125,
+                593.900390625,
+                7849.341796875
+            ],
+            "ypr": [
+                53.9999885559082,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+		{
+		  "name": "Misc_TirePile_Burning_DE",
+		  "pos": [
+			6661.07958984375,
+			8.400030136108398,
+			10523.2607421875
+		  ],
+		  "ypr": [
+			152.9998321533203,
+			0,
+			0
+		  ],
+		  "scale": 0.9999997615814209,
+		  "enableCEPersistency": 0,
+		  "customString": ""
+		},
+		{
+		  "name": "Misc_TirePile_Burning_DE",
+		  "pos": [
+			7951.67138671875,
+			10.0380859375,
+			10997.7548828125
+		  ],
+		  "ypr": [
+			0,
+			0,
+			0
+		  ],
+		  "scale": 0.9999998211860657,
+		  "enableCEPersistency": 0,
+		  "customString": ""
+		},		
+		{
+		  "name": "Misc_TirePile_Burning_DE",
+		  "pos": [
+			13166.9560546875,
+			1.2443313598632812,
+			928.4617309570312
+		  ],
+		  "ypr": [
+			0,
+			0,
+			0
+		  ],
+		  "scale": 0.9999998211860657,
+		  "enableCEPersistency": 0,
+		  "customString": ""
+		},
+		{
+		  "name": "Misc_TirePile_Burning_DE",
+		  "pos": [
+			13287.1337890625,
+			1.569990634918213,
+			884.8025512695312
+		  ],
+		  "ypr": [
+			0,
+			0,
+			0
+		  ],
+		  "scale": 0.9999998211860657,
+		  "enableCEPersistency": 0,
+		  "customString": ""
+		},
+		{
+		  "name": "Misc_TirePile_Burning_DE",
+		  "pos": [
+			13173.3505859375,
+			12.150440216064453,
+			1429.0526123046875
+		  ],
+		  "ypr": [
+			0,
+			0,
+			0
+		  ],
+		  "scale": 0.9999998211860657,
+		  "enableCEPersistency": 0,
+		  "customString": ""
+		},		
+    {
+      "name": "Misc_TirePile_Burning_DE",
+      "pos": [
+        13175.6474609375,
+        12.514461517333984,
+        1447.2864990234375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Misc_TirePile_Burning_DE",
+      "pos": [
+        13141.3447265625,
+        12.150449752807617,
+        1402.89013671875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    }
+  ]
+}
