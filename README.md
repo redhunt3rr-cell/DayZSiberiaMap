@@ -195,3 +195,6 @@ enjoy feel free to make a ticket if you are having issues
 
 If you want all the original eyescanners doors, eyeballs, teleports and custom creatures from siberia
 these are private and can be rented with conditions make a ticket for more info.
+
+You will need to replace all missing monsters by your own if you do not want to rent mine, you can check server logs to see wich one are missing
+
